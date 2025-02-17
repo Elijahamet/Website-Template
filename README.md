@@ -1,2 +1,2 @@
 # Website-Template
-Very Resposive Website Templat
+Very Resposive Website Template
